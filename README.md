@@ -13,4 +13,4 @@
 
 ##Проект собран с помощь Gulp
 
-## Демо:
+## Демо: https://anna-aleksandrovna.ru/animateCSS/
