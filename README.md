@@ -2,7 +2,7 @@
 
 - Html
 - CSS
-- JS
+
 
 ##
 
